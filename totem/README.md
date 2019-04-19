@@ -1,4 +1,4 @@
-# First playful portfolio example - Totem
+# Totem
 
 This project takes headshots of the Olin College Software Design Course's teaching team and uses them in a game to make a virtual totem pole. The faces bounce from side to side until a player presses spacebar to place the face. If a face is supported by the previously placed underneath it, the stack will continue and a new (random) face from the teaching team will appear. If the face has no support at the time the player presses spacebar, the game restarts. Stack faces to the top of the screen to win.
 
